@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Vue3, Nuxt3**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maymyatmon31)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/https://www.linkedin.com/in/maymyatmon31/](https://www.linkedin.com/in/may-myat-mon-0b6118214/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/may-myat-mon-0b6118214/" height="30" width="40" /></a>
